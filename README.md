@@ -1,2 +1,2 @@
 # Algorithms-and-Data-Structures
-ITBA Algorithms and Data Structures Course 2020 
+Projects of ITBA Algorithms and Data Structures Course 2020 
