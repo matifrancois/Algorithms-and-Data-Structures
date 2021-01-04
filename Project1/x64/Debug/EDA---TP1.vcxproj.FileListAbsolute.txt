@@ -1,0 +1,2 @@
+C:\Users\Usuario\Documents\ITBA\EDA\Algorithms-and-Data-Structures\Project1\x64\Debug\EDA---TP1.exe
+C:\Users\Usuario\Documents\ITBA\EDA\Algorithms-and-Data-Structures\Project1\x64\Debug\EDA---TP1.pdb
