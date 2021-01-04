@@ -109,7 +109,7 @@ int parseCallback(char* key, char* value, void* userData) {
 
     if (key) {
 
-        if (!strcmp(key, "maxclients")) {  // maxclients es la unica key valida
+        if (!strcmp(key, "maxclients")) {  // maxclients is the only valid key
             argumentos->clave = my_key;
         }
         else {
@@ -124,7 +124,7 @@ int parseCallback(char* key, char* value, void* userData) {
         success = 0;
     }
 
-    // incremento el puntero para que apunte al proximo lugar de storage en mi arreglo
+    // I increment the pointer to point to the next storage place in my array
     (*(arg_struct**)userData)++;
 
     return success;

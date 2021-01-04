@@ -2,11 +2,11 @@
 
 
 int parseCmdLine(int argc, char *argv[], pCallback p, void *userData) {
-
     int argumentCounter = 0;
     bool no_error;
     char * param, *value;
 
+    //for every item on argv
     for (int i = 1; i<argc; i++){
         param = argv[i];
 
